@@ -1,4 +1,4 @@
-# Generative Pretrained Transformers (GPT)
+# Generative Pretrained Transformers (GPT-Model)
 
 **Language Models are Few-Shot Learners** [[PAPER]](https://arxiv.org/pdf/2005.14165.pdf) [[OpenAI Blog]](https://openai.com/blog/gpt-3-apps/)
 
